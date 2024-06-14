@@ -1,0 +1,18 @@
+[
+  {
+    "nome": "celular",
+    "quantidade": 1
+  },
+  {
+    "nome": "lápis",
+    "quantidade": 15
+  },
+  {
+    "nome": "borracha",
+    "quantidade": 50
+  },
+  {
+    "nome": "papel",
+    "quantidade": 500
+  }
+]

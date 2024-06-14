@@ -1,0 +1,32 @@
+Questionário: Quais são as semelhanças e diferenças entre o PHP e o Node.js? E onde aplicá-las?
+
+Resposta:
+
+
+
+
+Diferenças:
+
+- O Node.js tem facilidade em utilizar bibliotecas de terceiros devido ao NPM, enquanto no PHP é possível utilizar diversos pacotes, mas não há uma plataforma centralizada como o Node para o gerenciamento de bibliotecas.
+
+- O Node.js possui mais capacidade para lidar com aumentos de carga, proporcionando um desempenho superior em comparação ao PHP.
+
+
+
+
+Semelhanças:
+
+- Ambos são utilizados para Desenvolvimento Web.
+
+- Ambos oferecem flexibilidade para hospedagem.
+
+- Ambos têm suporte para programação orientada a objetos.
+
+
+
+
+Onde aplicar cada uma:
+
+- O PHP pode ser utilizado para projetos como sites, sistemas de gerenciamento, etc., e para aplicativos que não exigem uma grande quantidade de conexões simultâneas.
+
+- O Node.js é recomendado para aplicativos em tempo real, como jogos online, chats, etc., sendo ideal para lidar com um grande número de solicitações simultâneas.
